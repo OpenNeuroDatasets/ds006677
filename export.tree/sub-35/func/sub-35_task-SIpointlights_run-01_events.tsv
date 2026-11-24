@@ -1,0 +1,11 @@
+onset	duration	trial_type
+3.0	12.0	fixation
+15.0	15.04	interact
+30.04	15.0	no_interact
+45.04	15.0	interact
+60.04	15.0	no_interact
+75.04	12.0	fixation
+87.05	15.0	no_interact
+102.05	15.08	interact
+117.12	15.0	no_interact
+132.12	15.07	interact
