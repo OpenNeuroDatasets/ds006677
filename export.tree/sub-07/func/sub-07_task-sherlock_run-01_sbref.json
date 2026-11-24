@@ -1,0 +1,28 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPSherlock1_ref",
+    "SeriesNumber": 15,
+    "AcquisitionNumber": 15,
+    "PhilipsRescaleSlope": 1.96142,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0273952,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.03,
+    "RepetitionTime": 5,
+    "ImageOrientationPatientDICOM": [
+        0.986714,
+        -0.162465,
+        0,
+        0.162465,
+        0.986714,
+        0
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006",
+    "Dcm2bidsVersion": "2.1.7",
+    "TotalReadoutTime": 0.0768,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 0.00069
+}

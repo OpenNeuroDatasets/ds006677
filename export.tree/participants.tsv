@@ -1,0 +1,40 @@
+participant_id	age	sex	group	localizers	handedness	notes
+sub-05	22	F	Control	soc	R	
+sub-06	19	F	Control	soc	R	
+sub-07	21	F	Control	soc	R	
+sub-08	21	M	Control	soc	R	
+sub-09	27	F	Control	soc	R	
+sub-10	21	M	Control	soc	R	
+sub-11	21	M	Control	soc	R	only had audio in the right ear
+sub-12	20	M	Control	soc	R	only had audio in the right ear
+sub-13	18	M	Control	soc	R	first run of sherlock is not correctly time locked
+sub-14	22	F	Control	soc	R	
+sub-15	22	F	Control	soc	R	
+sub-16	32	F	Control	soc	R	
+sub-19	35	F	Control	soc;lang	L	
+sub-21	24	M	Control	soc;lang	R	fell asleep during localizers
+sub-23	23	M	Control	soc;lang	R	
+sub-25	24	F	Control	soc;lang	R	
+sub-26	26	F	Control	soc;lang	R	
+sub-28	22	M	Control	soc;lang	R	
+sub-32	19	M	Control	soc;lang	R	
+sub-33	30	M	Control	soc;lang	R	
+sub-35	30	F	Control	soc;lang	R	
+sub-36	24	F	Control	soc;lang	R	
+sub-38	23	M	Control	soc;lang	R	
+sub-39	29	M	Control	soc;lang	n/a	
+sub-41	23	M	Control	soc;lang	R	
+sub-45	21	M	Control	soc;lang	n/a	
+sub-46	26	M	Control	soc;lang	n/a	
+sub-48	38	M	Control	soc;lang	R	fell asleep during sherlock
+sub-50	26	M	Control	soc;lang	R	
+sub-51	22	M	Control	soc;lang	R	
+sub-53	23	F	Control	soc;lang	L	
+sub-54	25	F	Control	soc;lang	R	
+sub-55	35	M	Control	soc;lang	R	
+sub-56	25	M	Control	soc;lang	R	
+sub-57	24	F	Control	soc;lang	R	
+sub-58	22	F	Control	soc;lang	R	
+sub-60	23	F	Control	soc;lang	R	
+sub-61	26	M	Control	soc;lang	n/a	
+sub-62	30	M	Control	soc;lang	R	

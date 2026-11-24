@@ -1,0 +1,28 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPSI_PSTS_ref",
+    "SeriesNumber": 9,
+    "AcquisitionNumber": 9,
+    "PhilipsRescaleSlope": 2.03297,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0145918,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.03,
+    "RepetitionTime": 5,
+    "ImageOrientationPatientDICOM": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006",
+    "Dcm2bidsVersion": "2.1.7",
+    "TotalReadoutTime": 0.0768,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 0.00069
+}

@@ -1,0 +1,38 @@
+{
+    "ImagingFrequency": 0,
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPfMRIFieldmapP",
+    "SeriesNumber": 16,
+    "AcquisitionNumber": 16,
+    "PhilipsRescaleSlope": 1.93553,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0101307,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.07,
+    "RepetitionTime": 7,
+    "ImageOrientationPatientDICOM": [
+        0.999201,
+        0.0399635,
+        -5.59145e-05,
+        -0.0399574,
+        0.999072,
+        0.0160714
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20230411",
+    "Dcm2bidsVersion": "3.0.1",
+    "IntendedFor": [
+        "func/sub-25_task-SIpointlights_run-01_bold.nii.gz",
+        "func/sub-25_task-SIpointlights_run-02_bold.nii.gz",
+        "func/sub-25_task-SIpointlights_run-03_bold.nii.gz",
+        "func/sub-25_task-sherlock_run-01_bold.nii.gz",
+        "func/sub-25_task-sherlock_run-02_bold.nii.gz",
+        "func/sub-25_task-language_run-01_bold.nii.gz",
+        "func/sub-25_task-language_run-02_bold.nii.gz"
+    ],
+    "TotalReadoutTime": 0.0768,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 0.00069
+}
