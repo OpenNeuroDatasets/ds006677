@@ -1,0 +1,27 @@
+{
+    "ImagingFrequency": 0,
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPMPrage32chan_AX",
+    "SeriesNumber": 5,
+    "AcquisitionNumber": 5,
+    "PhilipsRescaleSlope": 3.47961,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00611435,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00372,
+    "RepetitionTime": 0.008092,
+    "InversionTime": 0.9,
+    "ImageOrientationPatientDICOM": [
+        0.999201,
+        0.0399635,
+        -5.59145e-05,
+        -0.0399574,
+        0.999072,
+        0.0160714
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20230411",
+    "Dcm2bidsVersion": "3.0.1"
+}
